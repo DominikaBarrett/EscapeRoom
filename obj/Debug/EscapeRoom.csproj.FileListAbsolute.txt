@@ -1,0 +1,6 @@
+C:\Users\domin\Desktop\Geometry\EscapeRoom\EscapeRoom\bin\Debug\EscapeRoom.exe
+C:\Users\domin\Desktop\Geometry\EscapeRoom\EscapeRoom\bin\Debug\EscapeRoom.pdb
+C:\Users\domin\Desktop\Geometry\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\Geometry\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\Geometry\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.exe
+C:\Users\domin\Desktop\Geometry\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.pdb
